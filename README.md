@@ -12,3 +12,9 @@ this is an front end by using react
 **bold**
 
 ***italic and bold***
+
+[Google](https://www.google.com/)
+```python
+def fun():
+  print("Hai")
+```
